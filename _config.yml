@@ -4,7 +4,7 @@ permalink: /:year/:month/:day/:title/
 google_analytics: 
 
 title: Trophy
-description: 
+description: "meta blog for plus blog" 
 url: ""
 baseurl: ""
 twitter_username: 
